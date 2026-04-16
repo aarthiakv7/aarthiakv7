@@ -4,7 +4,7 @@
 
 ### [Strategist | BI Analyst | GTM Planner | Driving Business Impact with Data]
 
-I transform complex social data into high-impact marketing blueprints. With over 7 years of experience, I specialize in bridging the gap between raw market research and actionable brand strategy. My focus is simple: using trend forecasting and advanced analytics to ensure every marketing dollar outperforms the last.
+I transform complex social data into high-impact marketing blueprints. With over 7 years of experience and an MBA in Data Science, Business Analyics & Marketing from Santa Clara University, California, I specialize in bridging the gap between raw market research and actionable brand strategy. My focus is simple: using trend forecasting and advanced analytics to ensure every marketing dollar outperforms the last.
 Core Expertise:
 Strategic Analysis: Scaling brand visibility through precise market segmentation and trend forecasting.
 Performance Optimization: Leveraging analytical tools to refine campaigns and maximize ROI.
@@ -19,7 +19,7 @@ I’m passionate about turning "what happened" into "what’s next." Let’s con
 
 ---
 
-### 💼 Professional Experience (Summarized from LinkedIn)
+### 💼 Professional Experience 
 
 *   **[Job Title]** at **[Company]** | *[Date Range]*
     *   [Key Achievement 1: Use a metric, e.g., Improved load times by 40%]
@@ -46,8 +46,8 @@ I’m passionate about turning "what happened" into "what’s next." Let’s con
 ---
 
 ### 🌐 Connect with Me
-[<img src="https://shields.io" />](Your-LinkedIn-URL)
-[<img src="https://shields.io" />](Your-Portfolio-URL)
+[<img src="https://shields.io" />](https://www.linkedin.com/in/aarthi-akv/)
+[<img src="https://shields.io" />]([Your-Portfolio-URL](https://aarthivadivel.wixsite.com/portfolio))
 
 <!--
 **aarthiakv7/aarthiakv7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
