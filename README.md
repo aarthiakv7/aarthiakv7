@@ -16,7 +16,7 @@ I’m passionate about turning "what happened" into "what’s next." Let’s con
 - 👯 I’m looking to collaborate on **[Architecting intelligent marketing ecosystems that predict consumer behavior in real-time.]**
 - 💬 Ask me about **[Python, SQL, Tableay, Power BI]**
 - 📫 How to reach me: **[https://www.linkedin.com/in/aarthi-akv/]**
-
+- ⚡ Fun fact: I like riding motorbikes 
 ---
 
 ### 💼 Professional Experience 
