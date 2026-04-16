@@ -2,15 +2,15 @@
 [![LinkedIn Profile](https://vercel.app)](https://linkedin.com)
 
 
-### [Your LinkedIn Headline - e.g., Senior Full Stack Developer | Open Source Enthusiast]
+### [Strategist | BI Analyst | GTM Planner | Driving Business Impact with Data]
 
-I'm a passionate developer with a background in [Industry from LinkedIn, e.g., FinTech]. I focus on building [Primary Goal, e.g., scalable web applications and intuitive user interfaces].
+Dedicated Market Analyst with over 7+ years of experience in the field, specializing in social media marketing. Proven track record of leveraging data-driven insights to drive marketing strategies and enhance brand visibility. Proficient in market research, data analysis, and trend forecasting. Adept at using analytical tools and platforms to optimize marketing campaigns and maximize ROI.
 
-- 🔭 I’m currently working on **[Current Project/Role]**
-- 🌱 I’m currently learning **[New Skill or Certification]**
-- 👯 I’m looking to collaborate on **[Open Source/Type of Projects]**
-- 💬 Ask me about **[Core Skills, e.g., React, Python, AWS]**
-- 📫 How to reach me: **[Link to LinkedIn or Email]**
+- 🔭 I’m currently working on **[Predicting Consumer Behaviour based on Past Trends]**
+- 🌱 I’m currently learning **[GEN AI]**
+- 👯 I’m looking to collaborate on **[Architecting intelligent marketing ecosystems that predict consumer behavior in real-time.]**
+- 💬 Ask me about **[Python, SQL, Tableay, Power BI]**
+- 📫 How to reach me: **[https://www.linkedin.com/in/aarthi-akv/]**
 
 ---
 
