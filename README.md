@@ -4,7 +4,12 @@
 
 ### [Strategist | BI Analyst | GTM Planner | Driving Business Impact with Data]
 
-Dedicated Market Analyst with over 7+ years of experience in the field, specializing in social media marketing. Proven track record of leveraging data-driven insights to drive marketing strategies and enhance brand visibility. Proficient in market research, data analysis, and trend forecasting. Adept at using analytical tools and platforms to optimize marketing campaigns and maximize ROI.
+I transform complex social data into high-impact marketing blueprints. With over 7 years of experience, I specialize in bridging the gap between raw market research and actionable brand strategy. My focus is simple: using trend forecasting and advanced analytics to ensure every marketing dollar outperforms the last.
+Core Expertise:
+Strategic Analysis: Scaling brand visibility through precise market segmentation and trend forecasting.
+Performance Optimization: Leveraging analytical tools to refine campaigns and maximize ROI.
+Social Intelligence: Decoding consumer behavior across platforms to drive engagement and loyalty.
+I’m passionate about turning "what happened" into "what’s next." Let’s connect to discuss the future of data-driven marketing.
 
 - 🔭 I’m currently working on **[Predicting Consumer Behaviour based on Past Trends]**
 - 🌱 I’m currently learning **[GEN AI]**
