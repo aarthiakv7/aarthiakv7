@@ -47,7 +47,7 @@ I’m passionate about turning "what happened" into "what’s next." Let’s con
 
 ### 🌐 Connect with Me
 [<img src="https://shields.io" />](https://www.linkedin.com/in/aarthi-akv/)
-[<img src="https://shields.io" />]([Your-Portfolio-URL](https://aarthivadivel.wixsite.com/portfolio))
+[<img src="https://shields.io" />](https://aarthivadivel.wixsite.com/portfolio)
 
 <!--
 **aarthiakv7/aarthiakv7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
