@@ -21,7 +21,7 @@ I’m passionate about turning "what happened" into "what’s next." Let’s con
 
 ### 💼 Professional Experience 
 
-*   **[Job Title]** at **[Company]** | *[Date Range]*
+*   **Data Analyst** at **Bee Data Technologies** | *Sep 2024 - Current*
     *   [Key Achievement 1: Use a metric, e.g., Improved load times by 40%]
     *   [Key Achievement 2: Mention a technology used]
 *   **[Previous Job Title]** at **[Company]** | *[Date Range]*
