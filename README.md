@@ -1,4 +1,7 @@
-## Hi there 👋
+<h2 align="center">Hi✨ This is Aarthi here, Welcome to my Github space! A living gallery of my coding journey, from experimental side-quests to polished projects. Feel free to explore! 📂💡</h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/aarthi-akv/)
+[![Portfolio](https://img.shields.io/badge/WIX-FFFFFF?style=for-the-badge)](https://aarthivadivel.wixsite.com/portfolio)
 
 ### [Strategist | BI Analyst | GTM Planner | Driving Business Impact with Data]
 
