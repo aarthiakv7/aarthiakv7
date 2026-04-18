@@ -9,7 +9,7 @@ I transform complex social data into high-impact marketing blueprints.
 
 With over 7 years of experience and an MBA in Data Science, Business Analyics & Marketing from Santa Clara University, California, I specialize in bridging the gap between raw market research and analytics.
    
-      My focus is simple: using trend forecasting and advanced analytics to ensure every marketing dollar outperforms the last.
+      My focus is simple: Using trend forecasting and advanced analytics to ensure every marketing dollar outperforms the last.
 Core Expertise:
 
 Strategic Analysis: Scaling brand visibility through precise market segmentation and trend forecasting.
