@@ -10,8 +10,11 @@ With over 7 years of experience and an MBA in Data Science, Business Analyics & 
 Core Expertise:
 
 Strategic Analysis: Scaling brand visibility through precise market segmentation and trend forecasting.
+
 Performance Optimization: Leveraging analytical tools to refine campaigns and maximize ROI.
+
 Social Intelligence: Decoding consumer behavior across platforms to drive engagement and loyalty.
+
 I’m passionate about turning "what happened" into "what’s next." Let’s connect to discuss the future of data-driven marketing.
 
 - 🔭 I’m currently working on **Predicting Consumer Behaviour based on Past Trends**
