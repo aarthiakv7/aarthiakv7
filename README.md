@@ -59,7 +59,7 @@ I’m passionate about turning "what happened" into "what’s next." Let’s con
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https:img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/aarthi-akv/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/aarthi-akv/)
 [![Portfolio](https://shields.io)](https://aarthivadivel.wixsite.com/portfolio)
 
 
