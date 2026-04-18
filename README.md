@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![LinkedIn Profile](https://vercel.app)](https://linkedin.com)
+[![LinkedIn Profile](https://vercel.app)](https://www.linkedin.com/in/aarthi-akv)
 
 
 ### [Strategist | BI Analyst | GTM Planner | Driving Business Impact with Data]
