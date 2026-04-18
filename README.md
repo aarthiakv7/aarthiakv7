@@ -1,4 +1,4 @@
-<h2 align="center">Hi✨ This is Aarthi here, Welcome to my Github space! A living gallery of my coding journey, from experimental side-quests to polished projects. Feel free to explore! 📂💡</h2>
+<h2 align="center">Hi✨ This is Aarthi here, Welcome to my Github space! A living gallery of my coding journey, from experimental side-quests to polished projects. Feel free to explore and connect! 📂💡</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/aarthi-akv/)
 [![Portfolio](https://img.shields.io/badge/WIX-FFFFFF?style=for-the-badge)](https://aarthivadivel.wixsite.com/portfolio)
@@ -7,7 +7,7 @@
 
 I transform complex social data into high-impact marketing blueprints. 
 
-With over 7 years of experience and an MBA in Data Science, Business Analyics & Marketing from Santa Clara University, California, I specialize in bridging the gap between raw market research and actionable brand strategy.
+With over 7 years of experience and an MBA in Data Science, Business Analyics & Marketing from Santa Clara University, California, I specialize in bridging the gap between raw market research and analytics.
    
       My focus is simple: using trend forecasting and advanced analytics to ensure every marketing dollar outperforms the last.
 Core Expertise:
@@ -18,14 +18,14 @@ Performance Optimization: Leveraging analytical tools to refine campaigns and ma
 
 Social Intelligence: Decoding consumer behavior across platforms to drive engagement and loyalty.
 
-I’m passionate about turning "what happened" into "what’s next." Let’s connect to discuss the future of data-driven marketing.
+I’m passionate about turning "what happened?" into "what’s next?" Let’s connect to discuss the future of data-driven marketing.
 
 - 🔭 I’m currently working on **Predicting Consumer Behaviour based on Past Trends**
 - 🌱 I’m currently learning **GEN AI**
 - 👯 I’m looking to collaborate on **Architecting intelligent marketing ecosystems that predict consumer behavior in real-time.**
 - 💬 Ask me about **Python, SQL, Tableau, Power BI**
 - 📫 How to reach me: **https://www.linkedin.com/in/aarthi-akv/**
-- ⚡ Fun fact: I like riding motorbikes 
+- ⚡ Fun fact:  I have worked in four different industries - Biomedical, Aerospace, Edtech & Hospitality
 ---
 
 ### 💼 Professional Experience 
