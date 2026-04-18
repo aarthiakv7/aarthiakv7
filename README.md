@@ -42,6 +42,12 @@ I’m passionate about turning "what happened" into "what’s next." Let’s con
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aarthiakv7&show_icons=true&theme=radical)
 ![Snake animation](https://githubusercontent.com/aarthiakv7/aarthiakv7/output/dist/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<USER>/<REPO>/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<USER>/<REPO>/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/<USER>/<REPO>/output/github-snake.svg">
+</picture>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarthiakv7&layout=compact&theme=radical)
 
 ---
