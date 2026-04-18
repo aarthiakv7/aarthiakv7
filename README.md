@@ -2,8 +2,13 @@
 
 ### [Strategist | BI Analyst | GTM Planner | Driving Business Impact with Data]
 
-I transform complex social data into high-impact marketing blueprints. With over 7 years of experience and an MBA in Data Science, Business Analyics & Marketing from Santa Clara University, California, I specialize in bridging the gap between raw market research and actionable brand strategy. My focus is simple: using trend forecasting and advanced analytics to ensure every marketing dollar outperforms the last.
+I transform complex social data into high-impact marketing blueprints. 
+
+With over 7 years of experience and an MBA in Data Science, Business Analyics & Marketing from Santa Clara University, California, I specialize in bridging the gap between raw market research and actionable brand strategy.
+   
+      My focus is simple: using trend forecasting and advanced analytics to ensure every marketing dollar outperforms the last.
 Core Expertise:
+
 Strategic Analysis: Scaling brand visibility through precise market segmentation and trend forecasting.
 Performance Optimization: Leveraging analytical tools to refine campaigns and maximize ROI.
 Social Intelligence: Decoding consumer behavior across platforms to drive engagement and loyalty.
