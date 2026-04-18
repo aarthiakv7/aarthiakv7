@@ -25,7 +25,7 @@ I’m passionate about turning "what happened?" into "what’s next?" Let’s co
 - 👯 I’m looking to collaborate on **Architecting intelligent marketing ecosystems that predict consumer behavior in real-time.**
 - 💬 Ask me about **Python, SQL, Tableau, Power BI**
 - 📫 How to reach me: **https://www.linkedin.com/in/aarthi-akv/**
-- ⚡ Fun fact:  I have worked in four different industries - Biomedical, Aerospace, Edtech & Hospitality
+- ⚡ Fun fact:  I have worked in four different industries leveraging my analytical skills - Biomedical, Aerospace, Edtech & Hospitality
 ---
 
 ### 💼 Professional Experience 
