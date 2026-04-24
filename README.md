@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/aarthi-akv/)
 [![Portfolio](https://img.shields.io/badge/WIX-FFFFFF?style=for-the-badge)](https://aarthivadivel.wixsite.com/portfolio)
 
-###  The Commercial Business Analyst | Digital Marketing Manager | GTM Planner 
+###  The Commercial Business Analyst  
 
 Why Me?
 *   **Industry Polymath:** I’ve successfully deployed analytical solutions across four high-stakes industries: **Biomedical, Aerospace, EdTech, and Hospitality.** I adapt to new domains with speed and precision.
@@ -28,6 +28,7 @@ I’m passionate about turning "what happened?" into "what’s next?" Let’s co
 - 🌱 I’m currently learning **GEN AI**
 - 👯 I’m looking to collaborate on **Architecting intelligent marketing ecosystems that predict consumer behavior in real-time.**
 - 💬 Ask me about **Python, SQL, Tableau, Power BI**
+- My super power: I am Bilingual, I can speak both "Marketing" (PPC, SEO, Personas) and "Data" (CTEs, Joins, Scikit-learn). 
 - 📫 How to reach me: **https://www.linkedin.com/in/aarthi-akv/**
 ---
 
