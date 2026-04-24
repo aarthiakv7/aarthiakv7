@@ -47,8 +47,8 @@ I’m passionate about turning "what happened?" into "what’s next?" Let’s co
 | Business Analysis | Visualisation & Reporting | Data & Programming | Tools & Martech Platforms |
 | :--- | :--- | :--- | :--- |
 | Requirements Gathering (BRD/SRS) | Qlik Sense | SQL (for data extraction) | Trello |
-| User Stories | Tableau | Python (Pandas, NumPy, Scikit-learn,Seaborn,Matplotlib) | JIRA & Confluence|
-|Acceptance Criteria  | Looker | Advanced Excel (VBA/Power Query) | Canva (Infographic Design)  |
+| User Stories & Acceptance Criteria | Tableau | Python (Pandas, NumPy, Scikit-learn,Seaborn,Matplotlib) | JIRA & Confluence|
+|Stakeholder Management  | Looker | Advanced Excel (VBA/Power Query) | Canva (Infographic Design)  |
 |SDLC (Agile/Scrum/Waterfall)  | Power BI (DAX) | Machine Learning (Predictive Modeling)  | Adobe Analytics, Google Analytics 4 & Google Tag Manager |
 |Gap Analysis  | Salesforce | Deep Learning | MS Visio (Process Flow) |
 |MoSCoW Prioritization| Data Storytelling | Gen AI | Hubspot & Marketo |
