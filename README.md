@@ -46,13 +46,13 @@ I’m passionate about turning "what happened?" into "what’s next?" Let’s co
 
 | Business Analysis | Visualisation & Reporting | Data & Programming | Tools & Platforms |
 | :--- | :--- | :--- | :--- |
-| Requirements Gathering (BRD/SRS) | | SQL (for data extraction). | Trello |
-| User Stories | Tableau] | Python (Pandas, NumPy, Matplotlib, Scikitlearn, Seaborn) | JIRA|
+| Requirements Gathering (BRD/SRS) | | SQL (for data extraction) | Trello |
+| User Stories | Tableau | Python (Pandas, NumPy, Matplotlib, Scikitlearn, Seaborn) | JIRA|
 | SDLC (Agile/Scrum) | Looker | Advanced Excel (VBA/Power Query) | Confluence |
 | Gap Analysis | Power BI | Machine Learning & Deep Learning | Lucid |
 | MoSCoW Prioritization | Salesforce | Gen AI | MS Visio (Process Flow) |
-| RTM| [Skill 2] | Google Analytics 4 & Adobe Analytics | Hubspot |
-| [Skill 2] | [Skill 2] | Google Tag Manager | Marketo and Mailchimp |
+| RTM|  | Google Analytics 4 & Adobe Analytics | Hubspot |
+| |  | Google Tag Manager | Marketo and Mailchimp |
 
 ---
 
