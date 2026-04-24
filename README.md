@@ -44,15 +44,15 @@ I’m passionate about turning "what happened?" into "what’s next?" Let’s co
 ### 🚀 My Tech Stack
 
 
-| Business Analysis | Visualisation & Reporting | Data & Programming | Tools & Platforms |
+| Business Analysis | Visualisation & Reporting | Data & Programming | Tools & Martech Platforms |
 | :--- | :--- | :--- | :--- |
 | Requirements Gathering (BRD/SRS) | Qlik Sense | SQL (for data extraction) | Trello |
 | User Stories | Tableau | Python (Pandas, NumPy, Scikit-learn) | JIRA & Confluence|
 |Acceptance Criteria  | Looker | Advanced Excel (VBA/Power Query) | Adobe Analytics |
 |SDLC (Agile/Scrum/Waterfall)  | Power BI | Machine Learning  | Google Analytics 4 & Google Tag Manager |
 |Gap Analysis  | Salesforce | Deep Learning | MS Visio (Process Flow) |
-|MoSCoW Prioritization| Seaborn | Gen AI | Hubspot & Lucid |
-|RTM |Matplotlib  | Alteryx  | Marketo and Mailchimp |
+|MoSCoW Prioritization| Seaborn | Gen AI | Hubspot & Marketo |
+|RTM |Matplotlib  | Alteryx  | Lucid and Mailchimp |
 
 ---
 
