@@ -3,9 +3,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/aarthi-akv/)
 [![Portfolio](https://img.shields.io/badge/WIX-FFFFFF?style=for-the-badge)](https://aarthivadivel.wixsite.com/portfolio)
 
-### [Strategist | BI Analyst | GTM Planner | Driving Business Impact with Data]
+###  The Commercial Business Analyst | Digital Marketing Manager | GTM Planner 
 
-I transform complex social data into high-impact marketing blueprints. 
+Why Me?
+*   **Industry Polymath:** I’ve successfully deployed analytical solutions across four high-stakes industries: **Biomedical, Aerospace, EdTech, and Hospitality.** I adapt to new domains with speed and precision.
+*   **The Sales Superpower:** Unlike many BAs who are purely technical, I come with a **6-year solid Sales & Marketing foundation.** I don't just report data; I understand the "Commercial Why" behind every metric.
+*   **The Translator:** I translate technical "Data Speak" into "Executive Strategy" to drive ROI, not just charts.
+ 
 
 With over 7 years of experience and an MBA in Data Science, Business Analyics & Marketing from Santa Clara University, California, I specialize in bridging the gap between raw market research and analytics.
    
@@ -25,7 +29,6 @@ I’m passionate about turning "what happened?" into "what’s next?" Let’s co
 - 👯 I’m looking to collaborate on **Architecting intelligent marketing ecosystems that predict consumer behavior in real-time.**
 - 💬 Ask me about **Python, SQL, Tableau, Power BI**
 - 📫 How to reach me: **https://www.linkedin.com/in/aarthi-akv/**
-- ⚡ Fun fact:  I have worked in four different industries leveraging my analytical skills - Biomedical, Aerospace, Edtech & Hospitality
 ---
 
 ### 💼 Professional Experience 
