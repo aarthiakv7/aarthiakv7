@@ -48,8 +48,8 @@ I’m passionate about turning "what happened?" into "what’s next?" Let’s co
 | :--- | :--- | :--- | :--- |
 | Requirements Gathering (BRD/SRS) | Qlik Sense | SQL (for data extraction) | Trello |
 | User Stories | Tableau | Python (Pandas, NumPy, Scikit-learn) | JIRA & Confluence|
-|Acceptance Criteria  | Looker | Advanced Excel (VBA/Power Query) | Adobe Analytics |
-|SDLC (Agile/Scrum/Waterfall)  | Power BI (DAX) | Machine Learning (Predictive Modeling)  | Google Analytics 4 & Google Tag Manager |
+|Acceptance Criteria  | Looker | Advanced Excel (VBA/Power Query) | Canva  |
+|SDLC (Agile/Scrum/Waterfall)  | Power BI (DAX) | Machine Learning (Predictive Modeling)  | Adobe Analytics, Google Analytics 4 & Google Tag Manager |
 |Gap Analysis  | Salesforce | Deep Learning | MS Visio (Process Flow) |
 |MoSCoW Prioritization| Seaborn | Gen AI | Hubspot & Marketo |
 |RTM |Matplotlib  | Alteryx  | Lucid and Mailchimp |
