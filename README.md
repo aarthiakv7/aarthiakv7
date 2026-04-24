@@ -44,7 +44,7 @@ I’m passionate about turning "what happened?" into "what’s next?" Let’s co
 ### 🚀 My Tech Stack
 
 
-| Business Analysis | Visualisation & Reporting | Data & Programming | Tools & Platforms |
+|## Business Analysis |## Visualisation & Reporting |## Data & Programming |## Tools & Platforms |
 | :--- | :--- | :--- | :--- |
 | Requirements Gathering (BRD/SRS) | Qlik Sense | SQL (for data extraction) | Trello |
 | User Stories | Tableau | Python (Pandas, NumPy, Scikit-learn) | JIRA|
