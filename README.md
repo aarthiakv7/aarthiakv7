@@ -58,7 +58,7 @@ I’m passionate about turning "what happened?" into "what’s next?" Let’s co
 ### Other Skills: 
 o	Market Strategy & Digital Marketing: Competitive Analysis, Trend Forecasting, GTM Strategy, SEO, PPC/Paid Search, SMM, and Content Marketing. 
 
-o	Performance Analytics: Funnel Optimization, A/B & Multivariate Testing, CRO, and tracking key KPIs (ROI, ROAS, CAC, LTV, CTR).
+o	Performance Analytics: Funnel Optimization, A/B & Multivariate Testing, CRO, and  key KPI optimization (ROI, ROAS, CAC, LTV, CTR).
 
 ---
 
