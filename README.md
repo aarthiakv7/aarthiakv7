@@ -54,8 +54,9 @@ I’m passionate about turning "what happened?" into "what’s next?" Let’s co
 |MoSCoW Prioritization| Data Storytelling | Gen AI | Hubspot & Marketo |
 |RTM | Executive Reporting | Alteryx  | Lucid and Mailchimp |
 
-Other Skills: 
+### Other Skills: 
 o	Market Strategy & Digital Marketing: Competitive Analysis, Trend Forecasting, GTM Strategy, SEO, PPC/Paid Search, SMM, and Content Marketing. 
+
 o	Performance Analytics: Funnel Optimization, A/B & Multivariate Testing, CRO, and tracking key KPIs (ROI, ROAS, CAC, LTV, CTR).
 
 ---
