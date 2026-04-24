@@ -51,7 +51,7 @@ I’m passionate about turning "what happened?" into "what’s next?" Let’s co
 | SDLC (Agile/Scrum) | Looker | Advanced Excel (VBA/Power Query) | Adobe Analytics |
 | Gap Analysis | Power BI | Machine Learning  | Google Analytics 4 & Google Tag Manager |
 | MoSCoW Prioritization | Salesforce | Deep Learning | MS Visio (Process Flow) |
-| RTM| Sea born | Gen AI | Hubspot & Lucid |
+| RTM| Seaborn | Gen AI | Hubspot & Lucid |
 | |Matplotlib  | Alteryx  | Marketo and Mailchimp |
 
 ---
