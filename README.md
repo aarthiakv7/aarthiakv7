@@ -52,7 +52,7 @@ I’m passionate about turning "what happened?" into "what’s next?" Let’s co
 | Gap Analysis | Power BI | Machine Learning  | Google Analytics 4 & Google Tag Manager |
 | MoSCoW Prioritization | Salesforce | Deep Learning | MS Visio (Process Flow) |
 | RTM| Sea born | Gen AI | Hubspot & Lucid |
-| |Matplotlib  |  | Marketo and Mailchimp |
+| |Matplotlib  | Alteryx  | Marketo and Mailchimp |
 
 ---
 
