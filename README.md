@@ -46,7 +46,7 @@ I’m passionate about turning "what happened?" into "what’s next?" Let’s co
 
 | Business Analysis | Visualisation & Reporting | Data & Programming | Tools & Platforms |
 | :--- | :--- | :--- | :--- |
-| Requirements Gathering (BRD/SRS), User Stories, SDLC (Agile/Scrum), Gap Analysis, MoSCoW Prioritization, RTM(https://shields.io) |Power BI, Tableau, Looker, Salesforce.(https://shields.io) | SQL (for data extraction), Python (Pandas, NumPy, Matplotlib, Scikitlearn, Seaborn), Advanced Excel (VBA/Power Query), Machine Learning, Deep Learning, Gen AI, Google Analytics 4, Google Tag Manager, Adobe Analytics.(https://shields.io) | JIRA, Trello, Confluence, Lucid, MS Visio (Process Flow), Hubspot, Marketo and Mailchimp(https://shields.io) |
+| Requirements Gathering (BRD/SRS), User Stories, SDLC (Agile/Scrum), Gap Analysis, MoSCoW Prioritization, RTM |Power BI, Tableau, Looker, Salesforce. | SQL (for data extraction), Python (Pandas, NumPy, Matplotlib, Scikitlearn, Seaborn), Advanced Excel (VBA/Power Query), Machine Learning, Deep Learning, Gen AI, Google Analytics 4, Google Tag Manager, Adobe Analytics. | JIRA, Trello, Confluence, Lucid, MS Visio (Process Flow), Hubspot, Marketo and Mailchimp |
 | [Skill 2] | [Skill 2] | [Skill 2] | [Skill 2] |
 
 ---
