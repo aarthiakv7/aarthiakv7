@@ -31,7 +31,7 @@ I’m passionate about turning "what happened?" into "what’s next?" Let’s co
 - 📫 How to reach me: **https://www.linkedin.com/in/aarthi-akv/**
 
 
-  <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/632f3f90-b2e1-4b1d-b70e-658701c86b33" /> My super power: I am Trilingual, I can speak "Marketing" (PPC, SEO, Personas), "Data" (CTEs, Joins, Scikit-learn) and "Strategy" (Consumer Trends, PESTLE, VRIO, SWOT, Porter's six forces, Financial Modeling & Strategic Alternatives) . 
+  <img width="25" height="25" alt="image" style="display: block; margin: 0 auto; src="https://github.com/user-attachments/assets/632f3f90-b2e1-4b1d-b70e-658701c86b33" /> My super power: I am Trilingual, I can speak "Marketing" (PPC, SEO, Personas), "Data" (CTEs, Joins, Scikit-learn) and "Strategy" (Consumer Trends, PESTLE, VRIO, SWOT, Porter's six forces, Financial Modeling & Strategic Alternatives) . 
 ---
 
 
