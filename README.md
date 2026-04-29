@@ -11,7 +11,7 @@ Why Me?
 *   **The Translator:** I translate technical "Data Speak" into "Executive Strategy" to drive ROI, not just charts.
  
 
-With over 7 years of experience and an MBA in Data Science, Business Analyics & Marketing from Santa Clara University, California, I specialize in bridging the gap between raw market research and analytics.
+With over 7 years of experience and an MBA in Data Science, Business Analyics & Marketing from Santa Clara University, California, I specialize in bridging the gap between product strategy, data analytics and data story-telling.
    
       My focus is simple: Using trend forecasting and advanced analytics to ensure every marketing dollar outperforms the last.
 Core Expertise:
@@ -22,7 +22,7 @@ Performance Optimization: Leveraging analytical tools to refine campaigns and ma
 
 Social Intelligence: Decoding consumer behavior across platforms to drive engagement and loyalty.
 
-I’m passionate about turning "what happened?" into "what’s next?" Let’s connect to discuss the future of data-driven marketing.
+I’m passionate about turning "what happened?" into "what’s next?" Let’s connect to discuss the future of data-driven solutions.
 
 - 🔭 I’m currently working on **Predicting Consumer Behaviour based on Past Trends**
 - 🌱 I’m currently learning **GEN AI**
@@ -34,15 +34,6 @@ I’m passionate about turning "what happened?" into "what’s next?" Let’s co
 - 📫 How to reach me: **https://www.linkedin.com/in/aarthi-akv/**
 ---
 
-### 💼 Professional Experience 
-
-*   **Data Analyst** at **Bee Data Technologies** | *Sep 2024 - Current*
-    *   [Key Achievement 1: Use a metric, e.g., Improved load times by 40%]
-    *   [Key Achievement 2: Mention a technology used]
-*   **[Previous Job Title]** at **[Company]** | *[Date Range]*
-    *   [Key Achievement 1]
-
----
 
 ### 🚀 My Tech Stack
 
