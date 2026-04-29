@@ -7,7 +7,7 @@
 
 Why Me?
 *   **Industry Polymath:** I’ve successfully deployed analytical solutions across four high-stakes industries: **Biomedical, Aerospace, EdTech, and Hospitality.** I adapt to new domains with speed and precision.
-*   **The Sales Superpower:** Unlike many BAs who are purely technical, I come with a **6-year solid Sales & Marketing foundation.** I don't just report data; I understand the "Commercial Why" behind every metric.
+*   **The Sales Superpower:** I am not purely technical, I come with a **6-year solid Sales & Marketing foundation.** I don't just report data; I explicate the "Commercial Why" behind every metric.
 *   **The Translator:** I translate technical "Data Speak" into "Executive Strategy" to drive ROI, not just charts.
  
 
@@ -28,7 +28,7 @@ I’m passionate about turning "what happened?" into "what’s next?" Let’s co
 - 🌱 I’m currently learning **GEN AI**
 - 👯 I’m looking to collaborate on **Architecting intelligent marketing ecosystems that predict consumer behavior in real-time.**
 - 💬 Ask me about **Python, SQL, Tableau, Power BI**
-- My super power: I am Bilingual, I can speak both "Marketing" (PPC, SEO, Personas) and "Data" (CTEs, Joins, Scikit-learn). 
+- My super power: I am Trilingual, I can speak "Marketing" (PPC, SEO, Personas), "Data" (CTEs, Joins, Scikit-learn) and "Strategy" (Consumer Trends, PESTLE, VRIO, SWOT, Porter's six forces, Financial Modeling & Strategic Alternatives) . 
 - 📫 How to reach me: **https://www.linkedin.com/in/aarthi-akv/**
 ---
 
