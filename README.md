@@ -28,9 +28,7 @@ I’m passionate about turning "what happened?" into "what’s next?" Let’s co
 - 🌱 I’m currently learning **GEN AI**
 - 👯 I’m looking to collaborate on **Architecting intelligent marketing ecosystems that predict consumer behavior in real-time.**
 - 💬 Ask me about **Python, SQL, Tableau, Power BI**
-<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/632f3f90-b2e1-4b1d-b70e-658701c86b33" />
-
- My super power: I am Trilingual, I can speak "Marketing" (PPC, SEO, Personas), "Data" (CTEs, Joins, Scikit-learn) and "Strategy" (Consumer Trends, PESTLE, VRIO, SWOT, Porter's six forces, Financial Modeling & Strategic Alternatives) . 
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/632f3f90-b2e1-4b1d-b70e-658701c86b33" /> My super power: I am Trilingual, I can speak "Marketing" (PPC, SEO, Personas), "Data" (CTEs, Joins, Scikit-learn) and "Strategy" (Consumer Trends, PESTLE, VRIO, SWOT, Porter's six forces, Financial Modeling & Strategic Alternatives) . 
 - 📫 How to reach me: **https://www.linkedin.com/in/aarthi-akv/**
 ---
 
