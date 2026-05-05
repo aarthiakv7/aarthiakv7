@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/aarthi-akv/)
 [![Portfolio](https://img.shields.io/badge/WIX-FFFFFF?style=for-the-badge)](https://aarthivadivel.wixsite.com/portfolio)
 
-###  The Commercial Business Analyst  
+###  The Commercial Business Analyst  - Data isn't just about moving tickets; it's about context. Think of me as the Confluence to your Jira—turning complex analysis into clear, documented stories.
 
 Why Me?
 *   **Industry Polymath:** I’ve successfully deployed analytical solutions across four high-stakes industries: **Biomedical, Aerospace, EdTech, and Hospitality.** I adapt to new domains with speed and precision.
